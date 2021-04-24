@@ -1,0 +1,28 @@
+10000:CS 1337.001:Computer Science 1:Joe Jonas
+10001:CS 1337.002:Computer Science 1:Jia Hsing
+10002:CS 2336.001:Computer Science 2:Louis Armstrong
+10003:CS 2336.002:Computer Science 2:Neil Armstrong
+10004:CS 2305.001:Discrete Mathematics 1:Lionel Messi
+10005:CS 2305.002:Discrete Mathematics 1:Cristiano Ronaldo
+10006:CS 3305.001:Discrete Mathematics 2:Feng Jin
+10007:CS 3305.002:Discrete Mathematics 2:Paul Robert
+10008:CS 3340.001:Computer Architecture:John Krasinski
+10009:CS 3340.002:Computer Architecture:Lex Luther
+10010:SE 3341.001:Probability and Statistics:Bruce Wayne
+10011:SE 3341.002:Probability and Statistics:Clark Kent
+10012:SE 3345.001:Data Structures:Barry Allen
+10013:SE 3345.002:Data Structures:Jimmy Neutron
+10014:SE 3376.001:C++ in UNIX:Timmy Turner
+10015:SE 3376.002:C++ in UNIX:Jimmy Jim
+10016:SE 3354.001:Software Engineering:Timmy Tim
+10017:SE 3354.002:Software Engineering:Mona Lisa
+10018:SE 4347.001:Database Systems:Jacob Ling
+10019:SE 4347.002:Database Systems:Joanne Lane
+10020:SE 4348.001:Operating Systems:Mary Jane
+10021:SE 4348.002:Operating Systems:Mary Kate
+10022:SE 4351.001:Requirements Engineering:Jason Aldean
+10023:SE 4351.002:Requirements Engineering:21 Savage
+10024:SE 4352.001:Software Architecture:Yao Ming
+10025:SE 4352.002:Software Architecture:Dwayne Johnson
+10026:SE 4485.001:SE Project:Rex Man
+10027:SE 4485.002:SE Project:Patrick Star
